@@ -308,4 +308,3 @@ This project demonstrates how SQL can be used to perform **data cleaning, explor
 
 **Muhammad Hassan**
 
-If you want, I can also help you make this **10× more professional like a real Data Analyst portfolio project (with badges, folder structure, dataset section, screenshots, etc.)**, which will make your GitHub stand out.
